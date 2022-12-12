@@ -6,3 +6,5 @@ index.html
 .remote-assets
 .idea/
 components.d.ts
+yarn.lock
+yarn-error.log
